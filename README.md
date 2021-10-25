@@ -1,5 +1,5 @@
 # QiskitFallFest2021Project
-## Grover's Algorithm and Its Implementation on Hash Function
+## Using Grover's Algorithm to Find Collisions in Hash Functions
 Our project uses Grover's Algorithm to search for potential collisions in a hash function.
 Team member: Yundi Li, Sidh Suchdev, Lingyang Kong
 
