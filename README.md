@@ -15,6 +15,7 @@ We want to demonstrate that Grover's algorithm can be used to find collisions fo
 ## Guidance
 [Our notebook](https://github.com/TexanElite/QiskitFallFest2021Project/blob/master/fall_fest_ut_austin_2021.ipynb) presents our code along with explanations in text and quantum circuits. It can be opened with [IBM Quantum Lab](https://lab.quantum-computing.ibm.com), [Strange Works](https://app.quantumcomputing.com/), and Jupyter, etc.
 
+## [Video Link](https://youtu.be/IHd3RQoBi6w)
 
 ## Outcomes
 Only one team member has former experience in quantum computing. For others, with help from that teammate but strong foundations on linear algebra, they have learned basic quantum computation knowledge like qubit gates, quantum circuits, and most importantly, a quantum searching algorithm in just a few days. The person with previous knowledge also thinks he has deepened his understandings of these topics through explaining those concepts. We are glad that we are now able to implement what we learned in our project for this hackathon, and it is a fruitful experience for all team members. We hope to continue our exploration of this intriguing topic by taking a part in future events.
